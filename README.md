@@ -4,34 +4,42 @@ Fill in the text below with your own answers to each question. Each person in yo
 ## About You
 What are your names as they appear on the class roster?
 > Linh Pham
+
 > Sooji Son
 
 What do you prefer to be called?
 > Linh
+
 > Sooji
 
 What are your GitHub usernames?
 > linhpha
+
 > soojison
 
 Why are you taking this course?
 > To fulfill the major requirement
+
 > Yes, to fulfill my major requirement but also I've never learned anything formal about OS'es so it should be fun!
 
 Do you have any concerns about this course?
 > Work load and early hours
+
 > Yes... the work load.... and waking up on time....
 
 Look over the course schedule page. Which scheduled topics look most interesting to you?
 > Concurrency and Threads
+
 > The section about GPUs!
 
 Do you have any questions about the course?
 > N/A
+
 > ??
 
 Do you have any other questions for me?
 > N/A
+
 > Have/will you get a dog and will you bring them to the CS floor?
 
 ## About this course
@@ -54,4 +62,5 @@ Where can you find our course textbook?
 
 When are you free during my scheduled office hours?
 > Linh: Monday 11:00 - 11:45 AM ; Wednesday 4 - 4:30 PM; Friday: 4:00 - 5:00PM
+
 > If nothing else changes from my schedule, I can make any time on Monday and Friday.
