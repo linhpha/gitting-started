@@ -58,7 +58,7 @@ On what day will you give a presentation on your final project for this course?
 > Presentation is on the 24th of April (Tuesday).
 
 Where can you find our course textbook?
-> It is online for free on [here](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+> It is online for free on http://pages.cs.wisc.edu/~remzi/OSTEP/
 
 When are you free during my scheduled office hours?
 > Linh: Monday 11:00 - 11:45 AM ; Wednesday 4 - 4:30 PM; Friday: 4:00 - 5:00PM
